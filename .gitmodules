@@ -1,0 +1,80 @@
+[submodule "pack/plugins/start/vim-airline-themes"]
+	path = pack/plugins/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+	branch = master
+[submodule "pack/plugins/start/vim-airline"]
+	path = pack/plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+	branch = master
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+	branch = master
+[submodule "pack/plugins/start/ctrlp.vim"]
+	path = pack/plugins/start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+	branch = master
+[submodule "pack/plugins/start/neocomplete.vim"]
+	path = pack/plugins/start/neocomplete.vim
+	url = https://github.com/Shougo/neocomplete.vim.git
+	branch = master
+[submodule "pack/plugins/start/ale"]
+	path = pack/plugins/start/ale
+	url = https://github.com/w0rp/ale.git
+	branch = master
+[submodule "pack/plugins/start/vim-fugitive"]
+	path = pack/plugins/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+	branch = master
+[submodule "pack/plugins/start/vim-colorschemes"]
+	path = pack/plugins/start/vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+	branch = master
+[submodule "pack/plugins/start/vim-javascript"]
+	path = pack/plugins/start/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+	branch = master
+[submodule "pack/plugins/start/vim-jsx"]
+	path = pack/plugins/start/vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
+	branch = master
+[submodule "pack/plugins/start/delimitMate"]
+	path = pack/plugins/start/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+	branch = master
+[submodule "pack/plugins/start/editorconfig-vim"]
+	path = pack/plugins/start/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
+	branch = master
+[submodule "pack/plugins/start/vim-monokai"]
+	path = pack/plugins/start/vim-monokai
+	url = https://github.com/sickill/vim-monokai.git
+	branch = master
+[submodule "pack/plugins/start/BufOnly"]
+	path = pack/plugins/start/BufOnly
+	url = https://github.com/vim-scripts/BufOnly.vim.git
+	branch = master
+[submodule "pack/plugins/start/vim-vue"]
+	path = pack/plugins/start/vim-vue
+	url = https://github.com/posva/vim-vue.git
+	branch = master
+[submodule "pack/plugins/start/wxapp.vim"]
+	path = pack/plugins/start/wxapp.vim
+	url = https://github.com/chemzqm/wxapp.vim.git
+	branch = master
+[submodule "pack/plugins/start/caw.vim"]
+	path = pack/plugins/start/caw.vim
+	url = https://github.com/tyru/caw.vim.git
+	branch = master
+[submodule "pack/plugins/start/context_filetype.vim"]
+	path = pack/plugins/start/context_filetype.vim
+	url = https://github.com/Shougo/context_filetype.vim.git
+	branch = master
+[submodule "pack/plugins/start/far.vim"]
+	path = pack/plugins/start/far.vim
+	url = https://github.com/brooth/far.vim.git
+	branch = master
+[submodule "/home/aspirin2d/.vim/pack/plugins/start/vim-go"]
+	path = pack/plugins/start/vim-go
+	url = https://github.com/fatih/vim-go.git
+	branch = master
